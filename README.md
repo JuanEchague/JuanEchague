@@ -15,10 +15,11 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanechague&show_icons=true&locale=en&layout=compact" alt="juanechague" /></p>
 
+- 📫 How to reach me: **loxar240@gmail.com**
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/JuanDelSol"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JuanDelSol" /></a></p><a href='https://cafecito.app/juandelsol' rel='noopener' target='_blank'><img align="left" srcset='https://cdn.cafecito.app/imgs/buttons/button_5.png 1x, https://cdn.cafecito.app/imgs/buttons/button_5_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_5_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_5.png' alt='Invitame un café en cafecito.app' /></a><br><br>
 
-- 📫 How to reach me: **loxar240@gmail.com**
+
 
 
