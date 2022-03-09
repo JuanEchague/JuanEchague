@@ -13,7 +13,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanechague&show_icons=true&locale=en&layout=compact" alt="juanechague" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanechague&show_icons=true&locale=en&layout=compact" alt="juanechague" /></p>
 
 - 📫 How to reach me: **loxar240@gmail.com**
 
