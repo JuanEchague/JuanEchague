@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Juan del Sol</h1>
+<h1 align="center">Hi! I'm Juan del Sol</h1>
 <h3 align="center">A passionate full-stack developer from Argentina</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=juanechague&label=Profile%20views&color=0e75b6&style=flat" alt="juanechague" /> </p>
