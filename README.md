@@ -13,9 +13,7 @@
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanechague&show_icons=true&locale=en&layout=compact" alt="juanechague" /></p>
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=juanechague"
-/>
+
 
 - 📫 How to reach me: **loxar240@gmail.com**
 
