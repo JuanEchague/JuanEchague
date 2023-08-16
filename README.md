@@ -13,7 +13,7 @@
 
 
 <p align="center" width="100%">
-  <img align="center" max-width="100%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanechague&show_icons=true&locale=en&layout=compact" alt="juanechague" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanechague&show_icons=true&locale=en&layout=compact" alt="juanechague style="max-width:100%; height:150px;" />
 </p>
 
 
