@@ -4,6 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 
 [![Linkedin: Juan Echague](https://img.shields.io/badge/-JuanEchague-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-del-sol97/)](https://www.linkedin.com/in/juan-del-sol97/)
+[![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sy@mangotree.dev)](mailto:loxar240@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=juanechague&label=Profile%20views&color=0e75b6&style=flat" alt="juanechague" />
 
 
@@ -13,8 +14,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanechague&show_icons=true&locale=en&layout=compact" alt="juanechague" /></p>
 
-
-- 📫 How to reach me: **loxar240@gmail.com**
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/JuanDelSol"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JuanDelSol" /></a></p><a href='https://cafecito.app/juandelsol' rel='noopener' target='_blank'><img align="left" srcset='https://cdn.cafecito.app/imgs/buttons/button_5.png 1x, https://cdn.cafecito.app/imgs/buttons/button_5_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_5_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_5.png' alt='Invitame un café en cafecito.app' /></a><br><br>
