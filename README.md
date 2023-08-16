@@ -5,7 +5,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/juan-del-sol97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juanechague" height="30" width="40" /></a>
+  [![Linkedin: Juan Echague](https://img.shields.io/badge/-JuanEchague-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/juan-del-sol97/)
+
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
