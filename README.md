@@ -5,7 +5,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  [![Linkedin: Juan Echague](https://img.shields.io/badge/-JuanEchague-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/juan-del-sol97/)
+  [![Linkedin: Juan Echague](https://img.shields.io/badge/-JuanEchague-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-del-sol97/)](https://www.linkedin.com/in/juan-del-sol97/)
 
 </p>
 
