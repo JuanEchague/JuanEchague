@@ -1,7 +1,7 @@
 <h1 align="left">Hi! I'm Juan del Sol</h1>
 <h3 align="left">A passionate full-stack developer from Argentina</h3>
 
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanEchague&show_icons=true&theme=radical)
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanEchague&show_icons=true&theme=transparent)
 
 <h3 align="left">Connect with me:</h3>
 
