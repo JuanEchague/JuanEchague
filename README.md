@@ -5,8 +5,8 @@
 
 [![Linkedin: Juan Echague](https://img.shields.io/badge/-Juan%20Echague-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-del-sol97/)](https://www.linkedin.com/in/juan-del-sol97/)
 [![Gmail Badge](https://img.shields.io/badge/-loxar240@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sy@mangotree.dev)](mailto:loxar240@gmail.com)
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanEchague&show_icons=true&theme=radical)
 <img src="https://komarev.com/ghpvc/?username=juanechague&label=Profile%20views&color=0e75b6&style=flat" alt="juanechague" />
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanEchague&show_icons=true&theme=radical)
 
 <h3 align="left">Languages and Tools:</h3>
 
