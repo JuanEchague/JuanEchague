@@ -1,8 +1,6 @@
 <h1 align="left">Hi! I'm Juan del Sol</h1>
 <h3 align="left">A passionate full-stack developer</h3>
 
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanEchague&show_icons=true&theme=dracula)
-
 <h3 align="left">Connect with me:</h3>
 
 [![Linkedin: Juan Echague](https://img.shields.io/badge/-Juan%20Echague-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-del-sol97/)](https://www.linkedin.com/in/juan-del-sol97/)
