@@ -1,4 +1,4 @@
-<h1 align="center">Juan del Sol</h1>
+<h1 align="center">Juan Del Sol</h1>
 <p align="center"><strong>Full Stack Developer · Financial and Enterprise Software</strong></p>
 
 <p align="center">
