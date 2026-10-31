@@ -16,7 +16,7 @@ I build and evolve business applications across the frontend and backend, with p
 
 ## Technology
 
-**Professional focus:** Angular, C#, .NET, REST APIs, SQL Server, system integration, authentication and authorization.
+**Professional focus:** Angular, C#, .NET, REST APIs, SQL Server, Twilio, WhatsApp Business API, system integration, authentication and authorization.
 
 **Backend and APIs:** .NET Framework, .NET 9, ASP.NET Core, ASP.NET Web Forms, Entity Framework Core, Entity Framework, LINQ, OpenXML SDK, NPOI.
 
@@ -26,7 +26,7 @@ I build and evolve business applications across the frontend and backend, with p
 
 **Testing and delivery:** Jest, software testing, refactoring, Git, GitHub, GitHub Actions, Azure DevOps, Microsoft Azure, Jira, npm, GitHub Copilot.
 
-**Additional technologies and platforms:** Twilio, WhatsApp Business API, WooCommerce, Stripe, PayPal, Java, Spring, MySQL, Arduino. These are part of my broader toolkit; my professional focus is described above.
+**Additional technologies and platforms:** WooCommerce, Stripe, PayPal, Java, Spring, MySQL, Arduino. These are part of my broader toolkit; my professional focus is described above.
 
 ## Experience
 
