@@ -1,6 +1,11 @@
-# Juan del Sol
+<h1 align="center">Juan del Sol</h1>
+<p align="center"><strong>Full Stack Developer · Financial and Enterprise Software</strong></p>
 
-**Full Stack Developer · Financial and Enterprise Software**
+<p align="center">
+  <a href="https://www.linkedin.com/in/juan-del-sol97/"><img src="https://img.shields.io/badge/LinkedIn-Juan%20del%20Sol-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Juan del Sol on LinkedIn"></a>
+  <a href="mailto:loxar240@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Juan del Sol"></a>
+</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=juanechague&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"></p>
 
 I build and evolve business applications across the frontend and backend, with professional experience in financial, banking, and payment systems. My work includes transaction-oriented workflows, REST APIs, external service integrations, access control, and SQL Server data operations. I aim to understand the business problem first, then deliver solutions that are maintainable, efficient, and suited to the system around them.
 
@@ -46,6 +51,9 @@ Develop and maintain enterprise applications for financial, banking, and payment
 
 I prioritize understanding business needs before choosing an implementation. I value continuous improvement, automation, system optimization, adaptability, and solutions that remain scalable and maintainable as requirements evolve. I keep learning and exploring technologies where they can help solve real engineering problems.
 
-## Contact
+## Support
 
-[GitHub](https://github.com/JuanEchague) · [LinkedIn](https://www.linkedin.com/in/juan-del-sol97/) · [Email](mailto:loxar240@gmail.com)
+<p align="center">
+  <a href="https://www.buymeacoffee.com/JuanDelSol"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Juan a coffee"></a>
+  <a href="https://cafecito.app/juandelsol"><img src="https://cdn.cafecito.app/imgs/buttons/button_5.png" height="50" alt="Invitame un café en Cafecito"></a>
+</p>
