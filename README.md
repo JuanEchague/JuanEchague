@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-del-sol97/"><img src="https://img.shields.io/badge/LinkedIn-Juan%20del%20Sol-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Juan del Sol on LinkedIn"></a>
-  <a href="mailto:loxar240@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Juan del Sol"></a>
+  <a href="mailto:juan.echague.997@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Juan del Sol"></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=juanechague&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"></p>
 
